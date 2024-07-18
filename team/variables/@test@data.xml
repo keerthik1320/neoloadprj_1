@@ -1,0 +1,6 @@
+<variable-file delimiters="," filename="C:/Users/e40012755/Desktop/Neoload training/PetStoreTestData.csv" name="TestData" offset="1" order="3" policy="5" range="1" uid="4b16a628-2e33-4e9b-a39a-9b948b46b502" useFirstLine="true" whenOutOfValues="CYCLE_VALUES">
+<column name="category" number="3"/>
+<column name="firstname" number="2"/>
+<column name="password" number="1"/>
+<column name="username" number="0"/>
+</variable-file>

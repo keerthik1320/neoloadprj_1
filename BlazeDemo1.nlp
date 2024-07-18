@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=BlazeDemo1
+project.version=8.9
+project.original.version=8.9
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.original.version=2024.1.0
+project.is-open-test-settings-after-upload=false
+project.id=094bf2c4-8f7e-4b39-a133-9a7a8da18b0e
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/keerthik1320/neoloadprj_1.git

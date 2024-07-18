@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="selectcategory" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="b896e776-b579-45f1-90f4-17240620ff68" weightsEnabled="false">
+    <weighted-embedded-action uid="9685a947-b1cb-438f-bb9a-b1b585ecb7cb"/>
+    <weighted-embedded-action uid="355eace5-8cb6-4a20-9015-f81ab832c4da"/>
+</basic-logical-action-container>

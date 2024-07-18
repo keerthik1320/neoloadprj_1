@@ -1,0 +1,13 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="logintoapp" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="8ba473b1-7afe-4ac0-abf5-58941e507ab3" weightsEnabled="false">
+    <weighted-embedded-action uid="7f45eb69-3ba3-4c06-8c49-277861925bd2"/>
+    <weighted-embedded-action uid="8698ca7d-fd12-4723-9d59-3e6ed38e5ae6"/>
+    <weighted-embedded-action uid="5be751bb-60a9-44d7-822f-c9c0fce51c28"/>
+    <weighted-embedded-action uid="998d36a4-f670-483b-967c-f0e975a05cef"/>
+    <weighted-embedded-action uid="17f379d3-cf50-495b-9603-d9952b0f6002"/>
+    <weighted-embedded-action uid="78c6e61f-d328-407b-abb4-9b8d81efd53e"/>
+    <weighted-embedded-action uid="681c0cff-3fcc-4d28-a623-0f98b947ba9b"/>
+    <weighted-embedded-action uid="94fd402b-eb29-4c50-993e-13be50467c32"/>
+</basic-logical-action-container>

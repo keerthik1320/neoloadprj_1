@@ -1,0 +1,10 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="PurchaseFlight" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="551fc462-07c2-41b3-80f8-16f91b8385ac" weightsEnabled="false">
+    <weighted-embedded-action uid="425ba3b4-358a-4482-ba45-458f46f37bbf"/>
+    <weighted-embedded-action uid="ef958dfd-c736-45c6-9c73-e70bc19a3345"/>
+    <weighted-embedded-action uid="61bfc167-e6e4-4376-ae6f-9aae566cb7d6"/>
+    <weighted-embedded-action uid="d819ef73-05f6-4d0f-a401-1b9c7b697492"/>
+    <weighted-embedded-action uid="8319e161-f19c-4e5c-bf25-b0bb6a74692c"/>
+</basic-logical-action-container>

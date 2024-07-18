@@ -1,0 +1,14 @@
+<browser-action actionType="BrowserNavigate" isHit="false"
+    name="Navigate to https://petst...ion?signonForm" uid="c1ef8b4d-a573-42eb-9653-07cf65eb45ef">
+    <description>Navigate to an url.
+
+Possible parameters are:&#xd;
+- url (required): URL to visit. The URL must start with an http or https scheme, for example "https://".&#xd;
+- waitForNavigation.url (optional): URL pattern targeted, ex:http://tricentis.com/.* . The URL being navigated to must match this pattern. Enables a wait for page navigation after this action has been executed.&#xd;
+- waitForNavigation.timeout (optional): If applicable, the navigation must occur within the specified timeout in ms. By default the OpenBrowser defaultNavigationTimeout is used. Enables a wait for page navigation after this action has been executed. Maximum value is 200000.&#xd;
+- waitForNavigation.until (optional): Allowed values are : COMMIT, DOMCONTENTLOADED, LOAD, NETWORKIDLE. Default value is LOAD. The navigation will be considered done when the specified state is reached. Enables a wait for page navigation after this action has been executed.&#xd;
+- ignoreErrors (optional): Set this option to true to ignore errors for this action. This is useful for handling conditional actions without having to resort to a "If...Then...Else" or a "Try...Catch" block. Default value is "false".</description>
+    <custom-action-parameter name="url" type="TEXT" value="https://petstore.octoperf.com/actions/Account.action?signonForm"/>
+    <responsePageFileDescription>recorded-responses/res_c1ef8b4d-a573-42eb-9653-07cf65eb45ef</responsePageFileDescription>
+    <embedded-action>21730127-9778-43df-a5cd-380f5ab4b7b8</embedded-action>
+</browser-action>

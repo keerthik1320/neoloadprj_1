@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="SubmitLogin" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="919100de-280d-49c3-b90f-7d54ea63cef9" weightsEnabled="false">
+    <weighted-embedded-action uid="08c26b08-0f7e-4926-9ddc-4ed12bf61c92"/>
+    <weighted-embedded-action uid="315a877e-0ba7-4dfb-b232-a5ee78801caa"/>
+    <weighted-embedded-action uid="af13144a-b760-4e31-86cb-75a9b0115e66"/>
+    <weighted-embedded-action uid="ebf6e13c-927f-4947-80e5-bcdcdeb36097"/>
+</basic-logical-action-container>

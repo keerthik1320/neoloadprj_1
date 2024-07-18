@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="ChooseFlight" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="408ec2a6-0412-492f-bc71-86d6f9505872" weightsEnabled="false">
+    <weighted-embedded-action uid="87be4666-bc70-406e-90e6-de2e8a8e2530"/>
+</basic-logical-action-container>

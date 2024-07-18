@@ -1,0 +1,11 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Launchapp" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="561fec8a-f189-4462-a0c6-b17065043f06" weightsEnabled="false">
+    <weighted-embedded-action uid="02776238-ea21-4234-8fd9-167bc3f4d625"/>
+    <weighted-embedded-action uid="c1ef8b4d-a573-42eb-9653-07cf65eb45ef"/>
+    <weighted-embedded-action uid="34bbe6fe-ad6f-4107-b940-e20f92d10608"/>
+    <weighted-embedded-action uid="5779a13f-6f98-4708-82ed-0ae5744f5361"/>
+    <weighted-embedded-action uid="a6930610-686f-4fac-bba1-060ad80979a8"/>
+    <weighted-embedded-action uid="5ab58ac3-748f-40e7-8a2a-cbe0add5ef72"/>
+</basic-logical-action-container>
